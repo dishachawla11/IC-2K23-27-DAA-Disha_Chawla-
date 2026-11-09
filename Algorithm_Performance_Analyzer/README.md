@@ -82,10 +82,4 @@ Through this project, I learned:
 
 - **Programming Language:** C++
 - **IDE:** Visual Studio Code
-- **Libraries:** STL, Chrono, Fstream
 - **Data Storage:** CSV file
-
----
-
-**Project:** Algorithm Performance Analyzer  
-**Language:** C++
