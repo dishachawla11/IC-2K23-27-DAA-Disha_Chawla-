@@ -1,0 +1,20 @@
+Algorithm,Input Size,Execution Time (nanoseconds)
+Bubble Sort,5,188.6
+Insertion Sort,5,422.9
+Selection Sort,5,575.3
+Merge Sort,5,2088
+Quick Sort,5,425.4
+Bubble Sort,10,1893.7
+Insertion Sort,10,0
+Selection Sort,10,661.2
+Merge Sort,10,4595.1
+Quick Sort,10,509.2
+Bubble Sort,25,4036.9
+Insertion Sort,25,1579.4
+Selection Sort,25,2501.4
+Merge Sort,25,11116.2
+Quick Sort,25,401.5
+Linear Search,5,15846000
+Linear Search,10,0
+Linear Search,25,0
+Binary Search,5,0
